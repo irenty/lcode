@@ -53,7 +53,7 @@ object Solution2 {
   }
 }
 
-object Main0069 extends App {
+object Main0132 extends App {
 
   println("Solution1")
 
